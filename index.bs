@@ -1,12 +1,12 @@
 <pre class='metadata'>
-Title: The TODO API
-Shortname: todo
+Title: Future browsing context group dependency hint
+Shortname: Future BCG dependency hint
 Level: None
 Status: w3c/UD
-Repository: explainers-by-googlers/todo-your-repo-name
-URL: https://explainers-by-googlers.github.io/todo-your-repo-name
-Editor: TODO: Your Name, Google https://google.com, TODO@google.com
-Abstract: TODO: A short description of your spec, one or two sentences.
+Repository: explainers-by-googlers/future-browsing-context-group-dependency-hint
+URL: https://explainers-by-googlers.github.io/future-browsing-context-group-dependency-hint
+Editor: Kevin McNee, Google https://google.com, mcnee@google.com
+Abstract: Provide an opt-out mechanism for proactive browsing context group swaps
 Markup Shorthands: markdown yes, css no
 Complain About: accidental-2119 yes, missing-example-ids yes
 Assume Explicit For: yes

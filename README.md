@@ -173,9 +173,9 @@ The window feature approach is used in the main proposal as it's the smaller cha
 
 ## Stakeholder Feedback / Opposition
 
-TODO: Request standards positions.
-- Firefox: No signal.
-- Safari: No signal.
+- [TAG review](https://github.com/w3ctag/design-reviews/issues/979)
+- Firefox: [No signal.](https://github.com/mozilla/standards-positions/issues/1059)
+- Safari: [No signal.](https://github.com/WebKit/standards-positions/issues/383)
 - Web Developers: Positive. The reporter of the motivating [bug](https://issues.chromium.org/issues/40281878) has indicated that this proposal would enable their use case without bfcache-ineligibility hacks.
 
 ## References & acknowledgements

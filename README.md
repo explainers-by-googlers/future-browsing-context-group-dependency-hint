@@ -42,7 +42,7 @@ feedback on the proposed solution. It has not been approved to ship in Chrome.
 
 ## Introduction
 
-Some browsers perform a browsing context group (BCG) swap on navigations for performance reasons. In certain scenarios, this can cause web-facing breakage of named window reuse. This proposal introduces an opt-out mechanism that web content can use to indicate to the browser that it relies on a browsing context group not happening. The proposed mechanism is to use the ["opener"](https://html.spec.whatwg.org/multipage/links.html#link-type-opener) rel type. An author would annotate anchor elements for which a BCG swap on navigation would cause breakage.
+Some browsers perform a browsing context group (BCG) swap on navigations for performance reasons. In certain scenarios, this can cause web-facing breakage of named window reuse. This proposal introduces an opt-out mechanism that web content can use to indicate to the browser that it relies on a browsing context group swap not happening. The proposed mechanism is to use the ["opener"](https://html.spec.whatwg.org/multipage/links.html#link-type-opener) rel type. An author would annotate anchor elements for which a BCG swap on navigation would cause breakage.
 
 ## Background
 
